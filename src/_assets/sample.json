@@ -1,20 +1,22 @@
 {
-    "id":1,
+    "id": 1,
     "code": "sample",
     "name": "Sample Survey",
     "description": "For Testing Question Types and Features",
     "instructions": "Take your time. Look around. See that there are many types of questions. Answer the questions to see how they work.",
     "thankyou": "Thank you for exploring our amazing features. We look forward to working with you soon!",
     "copyright": "&copy; 2020 a/A Forms, Inc. Sample survey is for illustrative purposes only. All rights reserved.",
-    "questions": [{
+    "questions": [
+        {
             "stem": "What is your reason for considering a survey?",
             "type": "mcq",
             "includeOther": true,
-            "options": [{
+            "options": [
+                {
                     "text": "Employee Engagement",
                     "label": "",
                     "value": 1
-                },  
+                },
                 {
                     "text": "Team Dynamics",
                     "label": "",
@@ -35,7 +37,8 @@
         {
             "stem": "Are you planning to use this tool?",
             "type": "mcq",
-            "options": [{
+            "options": [
+                {
                     "text": "Yes",
                     "label": "",
                     "value": 1
@@ -62,9 +65,9 @@
             "pagebreak": true
         },
         {
-            "type":"section",
-            "title":"Follow Up",
-            "instructions":"Please let us know how to connect with you."
+            "type": "section",
+            "title": "Follow Up",
+            "instructions": "Please let us know how to connect with you."
         },
         {
             "stem": "What is your first name?",

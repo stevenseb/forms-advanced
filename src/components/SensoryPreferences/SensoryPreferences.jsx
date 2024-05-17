@@ -1,6 +1,6 @@
 function SensoryPreferences() {
   return (
-   <h1>Welcome to our website</h1>
+    <h1>Welcome to the sensory</h1>
   )
 }
 
